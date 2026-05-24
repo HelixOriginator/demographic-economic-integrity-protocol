@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/demographic-economic-integrity-protocol/sitemap.xml
